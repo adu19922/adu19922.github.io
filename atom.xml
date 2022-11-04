@@ -6,7 +6,7 @@
   <link href="http://adu19922.github.io/atom.xml" rel="self"/>
   
   <link href="http://adu19922.github.io/"/>
-  <updated>2022-11-04T01:14:48.300Z</updated>
+  <updated>2022-11-04T01:20:03.103Z</updated>
   <id>http://adu19922.github.io/</id>
   
   <author>
@@ -21,34 +21,15 @@
     <link href="http://adu19922.github.io/2022/11/04/markdown-1/"/>
     <id>http://adu19922.github.io/2022/11/04/markdown-1/</id>
     <published>2022-11-04T01:14:48.000Z</published>
-    <updated>2022-11-04T01:14:48.300Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://adu19922.github.io/2022/11/04/markdown/"/>
-    <id>http://adu19922.github.io/2022/11/04/markdown/</id>
-    <published>2022-11-04T01:11:44.003Z</published>
-    <updated>2022-11-04T01:11:44.003Z</updated>
+    <updated>2022-11-04T01:20:03.103Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;zh-CN&quot;&gt;
-  &lt;head&gt;
-    
-&lt;pre&gt;&lt;code&gt;&amp;lt;meta charset=&amp;quot;UTF-8&amp;quot; /&amp;gt;
-&amp;lt;link
-  rel=&amp;quot;icon&amp;quot;
- </summary>
+    <summary type="html">&lt;p&gt;我们对Markdown编辑器进行了一些功能拓展与语法支持，除了标准的Markdown编辑器功能，我们增加了如下几点新功能，帮助你用它写博客：&lt;/p&gt;
+&lt;p&gt;全新的界面设计 ，将会带来全新的写作体验；&lt;br&gt;在创作中心设置你喜爱的代码高亮样式，Markdown</summary>
         
       
     
@@ -70,34 +51,6 @@
         
         
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://adu19922.github.io/2022/11/03/ni-hao/"/>
-    <id>http://adu19922.github.io/2022/11/03/ni-hao/</id>
-    <published>2022-11-03T09:24:24.738Z</published>
-    <updated>2022-11-03T09:24:24.738Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;zh-CN&quot;&gt;
-  &lt;head&gt;
-    
-&lt;pre&gt;&lt;code&gt;&amp;lt;meta charset=&amp;quot;UTF-8&amp;quot; /&amp;gt;
-&amp;lt;link
-  rel=&amp;quot;icon&amp;quot;
- </summary>
         
       
     
